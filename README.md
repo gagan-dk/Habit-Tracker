@@ -1,3 +1,5 @@
+RUN
+
 cd backend
 npm run dev
 
